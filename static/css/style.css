@@ -6,7 +6,7 @@ body {
     font-family: Lato, sans-serif;
     font-size: 1.4rem;
     font-weight: 700;
-    color: #4A4A4F;
+    color: #fdfdff;
 }
 
 .red-o {
@@ -22,7 +22,7 @@ body {
 }
 
 .dark-bg {
-    background-color: #445261;
+    background-color: #686c70;
 }
 
 .main-bg {
@@ -62,7 +62,7 @@ body {
 }
 
 .masthead-text {
-    background-color: #445261;
+    background-color: #adaeaf;
     color: white;
     position: relative;
 }
@@ -88,12 +88,12 @@ body {
 
 .post-link {
     text-decoration: none;
-    color: #445261;
+    color: #ffffff;
 }
 
 .post-link:hover,
 .page-link {
-    color: #E84610;
+    color: #267dff;
 }
 
 .post-title {
@@ -122,10 +122,6 @@ body {
     text-decoration: none;
 }
 
-.copyright {
-    color: #000000;
-}
-
 b {
     color: #7e0a0a;
 }
@@ -137,14 +133,14 @@ b {
 }
 
 .btn-like {
-    color: #E84610;
+    color: #267dff;
     border: none;
     background: transparent;
 }
 
 .btn-like:hover,
 .btn-like:active {
-    color: #E84610;
+    color: #267dff;
     background: transparent;
     border: none;
 }
