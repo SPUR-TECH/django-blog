@@ -36,6 +36,8 @@ ALLOWED_HOSTS = ['codestar-scott.herokuapp.com', 'localhost']
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
+ACCOUNT_EMAIL_VERIFICATION = 'none'
+
 
 # Application definition
 
