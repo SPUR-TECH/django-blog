@@ -10,7 +10,7 @@ body {
 }
 
 .red-o {
-    color: #E84610;
+    color: #911b1b;
 }
 
 b {
@@ -92,12 +92,12 @@ b {
 
 .post-link {
     text-decoration: none;
-    color: #445261;
+    color: #dcdee0;
 }
 
 .post-link:hover,
 .page-link {
-    color: #E84610;
+    color: #1e10e8;
 }
 
 .post-title {
