@@ -6,7 +6,18 @@ body {
     font-family: Lato, sans-serif;
     font-size: 1.4rem;
     font-weight: 700;
-    color: #4A4A4F;
+    color: #d3d3d3;
+}
+
+a.native link {
+    color: white;
+}
+
+h4,
+h3,
+h2,
+h1 {
+    color: white;
 }
 
 .red-o {
@@ -128,19 +139,19 @@ b {
 
 .link:hover,
 .link:active {
-    color: #445261;
+    color: lightgray;
     text-decoration: underline;
 }
 
 .btn-like {
-    color: #E84610;
+    color: #911b1b;
     border: none;
     background: transparent;
 }
 
 .btn-like:hover,
 .btn-like:active {
-    color: #E84610;
+    color: #db0606;
     background: transparent;
     border: none;
 }
